@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\naimul hp spectre\cpp_projects\sortbucketlist\main.cpp
+	<iostream>
+
+1593360051 source:c:\users\naimul hp spectre\cpp_projects\sortbucketlist\sortbucketlist.cpp
+	"SortBucketList.h"
+
+1593358718 c:\users\naimul hp spectre\cpp_projects\sortbucketlist\sortbucketlist.h
+	<iostream>
+	<cstring>
+
